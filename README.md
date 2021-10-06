@@ -9,3 +9,4 @@ Here are a few that I have so far (more upcoming):
 	3. [Data Wrangling with tidyr and dplyr](https://github.com/patmendoza330/annotationwrangling) - converting and integrating data from multiple sources is often tricky business. Luckily there are some great tools available that make this a breeze.
 2. Python
 	1. [Converting files in non-tabular to tabular format](https://github.com/patmendoza330/geneontologyconversion) - Oftentimes, we come across data that isn't in the form that we need to make joins, when that happens, we can convert those using simple python scripts
+3. [Misc Python](https://github.com/patmendoza330/miscrna) (in development) - some misc scripts that I used to add in RNA-seq generation. 
