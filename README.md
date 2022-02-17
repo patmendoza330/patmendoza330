@@ -4,7 +4,7 @@ I've worked in SQL, R, and Python for several years and am currently working on 
 
 Here are a few that I have so far (more upcoming):
 
-1. Google Data Analytics Professional Certificate Capstone Project
+1. Google Data Analytics Professional Certificate Capstone Project - [Tableau Link](https://public.tableau.com/app/profile/patrick.mendoza5877/viz/WhatAnimetoWatchNextMyAnimeList/Dashboard)
 	* This is the final project for my certificate. I extract viewership data from an API and convert the JSON format into tabular data which gets loaded onto kaggle. Then I created a viz on Tableau that allows users to explore the data.
 	1. [Extracting the data](https://github.com/patmendoza330/animelistextract) - here I go through the code that allows an extraction of data from MyAnimeList via their API and convert them into tables.
 	2. [Cleaning the data](https://github.com/patmendoza330/animelistclean) - here I go through my cleaning process for the data so that I ensure that its ready for loading into Tableau and Kaggle. 
